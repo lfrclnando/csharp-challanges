@@ -30,16 +30,6 @@ You must have the [.NET SDK](https://dotnet.microsoft.com/download) installed on
 | Program-Mostrando-Datas.cs | Displays the current date and time in various formats (long, short, custom, RFC1123, universal). | Use of the **DateTime class** and date/time string formatting (e.g., now.ToString("F"), now:dd MMMM yyyy). |
 | Program-Placa-Veiculos.cs | Validates a vehicle license plate using the LLLNNNN pattern (three letters and four numbers, e.g., ABC1234). | Use of **Regular Expressions** (System.Text.RegularExpressions.Regex.IsMatch) for format validation. |
 
-## **🤝 Contribution**
-
-Feel free to expand, refactor, or add new programs to this collection. All contributions are welcome\!
-
-1. Fork the project.  
-2. Create a new branch for your feature (git checkout \-b feature/NewFeature).  
-3. Commit your changes (git commit \-m 'Adds new feature...').  
-4. Push to the branch (git push origin feature/NewFeature).  
-5. Open a Pull Request.
-
 ## 💻 Autores e Agradecimentos
 
 <div style="display:flex; justify-content: space-around">
