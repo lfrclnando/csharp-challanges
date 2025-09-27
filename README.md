@@ -40,6 +40,9 @@ Feel free to expand, refactor, or add new programs to this collection. All contr
 4. Push to the branch (git push origin feature/NewFeature).  
 5. Open a Pull Request.
 
-## **📄 License**
+## 💻 Autores e Agradecimentos
 
-This project is licensed under the MIT License.
+<div style="display:flex; justify-content: space-around">
+<h4 align="left">Um projeto da Formação em C# da Rocketseat</h4>
+<h5 align="right">Reproduzido com muito carinho por 🦅 Fernando</h5>
+</div>
