@@ -1,0 +1,14 @@
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\MostrandoData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\MostrandoData.AssemblyInfoInputs.cache
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\MostrandoData.AssemblyInfo.cs
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\MostrandoData.csproj.CoreCompileInputs.cache
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\bin\Debug\net8.0\MostrandoData.exe
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\bin\Debug\net8.0\MostrandoData.deps.json
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\bin\Debug\net8.0\MostrandoData.runtimeconfig.json
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\bin\Debug\net8.0\MostrandoData.dll
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\bin\Debug\net8.0\MostrandoData.pdb
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\MostrandoData.dll
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\refint\MostrandoData.dll
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\MostrandoData.pdb
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\MostrandoData.genruntimeconfig.cache
+C:\Users\lfrna\source\repos\MostrandoData\MostrandoData\obj\Debug\net8.0\ref\MostrandoData.dll
